@@ -1,4 +1,4 @@
-package co.grandcircus.springmongo;
+package co.grandcircus.hotelsearch;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

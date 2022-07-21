@@ -1,4 +1,4 @@
-package co.grandcircus.springmongo;
+package co.grandcircus.hotelsearch;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

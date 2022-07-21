@@ -1,4 +1,4 @@
-package co.grandcircus.springmongo;
+package co.grandcircus.hotelsearch;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
